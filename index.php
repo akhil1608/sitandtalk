@@ -30,7 +30,7 @@
 			<div class="row">
 				<div class="main">
 					<div class="title">
-						<h2>Sit & Talk</h2>
+						<h2>Sit  Talk</h2>
 						<h4>Connect. Without. Phone.</h4>
 					</div>
 				  	<div id="slider_container" style="position: relative; width: 1349px; height: 758px ; top: 0px; left: 0px;">
