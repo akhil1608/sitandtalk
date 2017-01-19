@@ -22,21 +22,14 @@ div.footer a {
 .main {
 	width: 100%;
 	height: 75%;
+	text-align: center;
 	overflow: hidden;
-}
-
-.sub {
-	height: 1000;
-	padding: 100;
-}
-
-.sub img {
 }
 
 .title {
 	position: absolute;
+	width: inherit;
 	top: 30%;
-	left: 30%;
 	color: white;
 	z-index: 1;
 }
@@ -63,10 +56,53 @@ div.footer a {
     color: #512C1D;
 }
 
+.sub {
+	color: #512C1D;	
+	padding: 5% 10% 0 10%;
+}
+
 .last {
-	padding-bottom: 25%;
+	padding-bottom: 15%;
 }
 
 #tab1,#tab2,#tab3 {
 	display:none;
+}
+
+.page-title {
+	font-family: 'Sacramento', cursive;
+	font-size: 90;
+}
+
+.page-desc{
+	font-family: 'Didact Gothic', sans-serif;
+	font-size: 50;
+}
+
+.cont-title {
+	font-family: 'Sacramento', cursive;
+	font-size: 45;
+}
+
+.heading {
+	font-family: 'Domine', serif;
+	font-size: 36;
+}
+
+.content {
+	font-family: 'Enriqueta', serif;
+	font-size: 17;
+}
+
+.cat a {
+	color: black;
+}
+
+.cat a:hover {
+	text-decoration: none;
+	color: black;
+}
+
+#cat0 {
+	background-color: #f4a460;
 }
