@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://akhil1608.github.io/sitandtalk/sitemap.xml
